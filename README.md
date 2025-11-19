@@ -346,8 +346,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Switch OFF:
- 
-![WhatsApp Image 2025-10-07 at 08 58 08_a8167357](https://github.com/user-attachments/assets/576faff4-979d-4246-a8e3-fe4fd4c60462)
+ ![WhatsApp Image 2025-11-19 at 10 33 35_6c997e4e](https://github.com/user-attachments/assets/7be0fb79-eb72-40c9-b677-e3aa537a4558)
+
   
  
 ## Result :
