@@ -160,7 +160,7 @@ int main(void)
   }
   void led_blink()
   {
-      button=HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_0);
+      button=HAL_GPIO_ReadPin(GPIOC,GPIO_PIN_13);
       if(button==0)
       {
           HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,GPIO_PIN_SET);
